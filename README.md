@@ -1,2 +1,3 @@
-My first Git lab
+## My first Git lab
+
 Student name: Дулмаа
